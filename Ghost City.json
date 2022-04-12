@@ -1,9 +1,9 @@
 {
     "manifest": {
         "name": "Ghost City",
-        "license": " ",
         "author": "Ahlawat",
-        "version": "0.0.3"
+        "version": "0.4",
+        "updater": "https:\/\/raw.githubusercontent.com\/Tharki-God\/Rose-quartz\/main\/Ghost%20City.json"
     },
     "background": {},
     "fonts": {},
