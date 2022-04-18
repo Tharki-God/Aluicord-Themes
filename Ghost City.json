@@ -2,14 +2,14 @@
     "manifest": {
         "name": "Ghost City",
         "author": "Ahlawat",
-        "version": "0.5",
+        "version": "0.6",
         "updater": "https:\/\/raw.githubusercontent.com\/Tharki-God\/Aluicord-Themes\/main\/Ghost%20City.json"
     },
     "background": {},
     "fonts": {},
-    "simple_colors": {
+        "simple_colors": {
         "input_background": -15856114,
-        "mention_highlight": 864290008,
+        "mention_highlight": 428804072,
         "accent": -8843046,
         "statusbar": 0
     },
@@ -28,9 +28,10 @@
         "uikit_btn_bg_color_selector_red": -8843046,
         "uikit_btn_compound_color_selector_dark": -8843046,
         "primary_dark_360": -7895161,
-        "uikit_settings_item_text_color_dark": -1,
+        "uikit_settings_item_text_color_dark": -1644826,
         "abc_tint_switch_track": -15724528,
-        "uikit_settings_item_text_color_light": -14869219
+        "uikit_settings_item_text_color_light": -8288631,
+        "abc_secondary_text_material_dark": -1
     },
     "drawable_tints": {
         "drawable_button_grey": -8843046,
